@@ -39,6 +39,7 @@ The sequences were obtained from UniProt.
 
 - **FASTA file**: A simple text format used to store biological sequences.
 - **Sequence parsing**: Reading biological sequence data from a file so it can be analysed in Python.
+- **Sequence conservation**: When a sequence stays similar across different species, suggesting an important biological role.
 - **Pairwise alignment**: A method used to compare two sequences and measure how similar they are.
 - **Percent similarity**: A simple way to show how closely one sequence matches another.
 
